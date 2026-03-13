@@ -1,10 +1,22 @@
-## Hello! My name is Guilherme Andrade
+## Hello! I'm Guilherme Andrade
 
 **Java Backend Developer in Training**
 
-- 💻 Computer Science Student
-- ✨ Focused on backend
-- 🌟 Practicing Java
+💻 Computer Science Student
+
+### About Me
+- ✨ Focused on backend development with Java
+- 🔍 Looking for my first internship in Java Backend Development
+<!-- 🌱 Currently practicing Spring Boot, OOP, and CRUD operations
+📚 Eager to learn microservices, databases, and clean architecture -->
+
+### Projects
+- [Library System](https://github.com/gandrade-backend/library-system-java) – Java project to manage books, users, and loans.  
+  Features: Object-Oriented Programming, Collections, and basic CRUD operations.
+<!--
+- [API de Tarefas](https://github.com/gandrade-backend/task-api) – Spring Boot, MySQL
+- [Sistema de Cadastro](https://github.com/gandrade-backend/user-system) – Aprendizado de CRUD e banco de dados
+-->
 
 ### Statistics
 
@@ -14,34 +26,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gandrade-backend&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
-  
-<!--
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gandrade-backend&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gandrade-backend&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=gandrade-backend&show_icons=true" />
-</picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
--->
+### Contact
 
-<!--
-**gandrade-backend/gandrade-backend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/guilherme-andrade-372572325/)
