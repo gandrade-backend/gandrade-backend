@@ -10,6 +10,14 @@
 <!-- 🌱 Currently practicing Spring Boot, OOP, and CRUD operations
 📚 Eager to learn microservices, databases, and clean architecture -->
 
+<!--
+### Skills
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) -->
+
 ### Projects
 - [Library System](https://github.com/gandrade-backend/library-system-java) – Java project to manage books, users, and loans.  
   Features: Object-Oriented Programming, Collections, and basic CRUD operations.
