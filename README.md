@@ -1,7 +1,12 @@
 ## Hello! My name is Guilherme Andrade
 
+**Java Backend Developer in Training**
+
+- 💻 Computer Science Student
 - ✨ Focused on backend
 - 🌟 Practicing Java
+
+### Statistics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=gandrade-backend&theme=dracula" />
