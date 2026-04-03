@@ -12,8 +12,11 @@
  -->
 
 ### Projects
-- [Library System](https://github.com/gandrade-backend/library-system-java) – Java project to manage books, users, and loans.  
+- [Library System](https://github.com/gandrade-eng/library-system-java) – Java project to manage books, users, and loans.<br>
   Features: Object-Oriented Programming, Collections, and basic CRUD operations.
+
+- [Daily Comments System](https://github.com/gandrade-eng/library-system-java) – Java project that implements a daily comment system using a custom Doubly Linked List (built from scratch without using Java Collections).<br>
+  Features: Data Structures, Doubly Linked List, node manipulation (insertion, deletion, and traversal), and Object-Oriented Programming.
 <!--
 - [API de Tarefas](https://github.com/gandrade-backend/task-api) – Spring Boot, MySQL
 - [Sistema de Cadastro](https://github.com/gandrade-backend/user-system) – Aprendizado de CRUD e banco de dados
