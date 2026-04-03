@@ -19,6 +19,7 @@
 - [Sistema de Cadastro](https://github.com/gandrade-backend/user-system) – Aprendizado de CRUD e banco de dados
 -->
 
+<!--
 ### Statistics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -27,6 +28,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gandrade-backend&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
+-->
 
 ### Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
